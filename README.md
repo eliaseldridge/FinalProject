@@ -1,5 +1,5 @@
 # Golf Trainer
-Golf Trainer is a web application that invites users to share with it the issues they are experiencing with their golf game. Golf is a sport that is impossible to perfect. As much as you play, work, and train, there is always something that can be worked on. And any casual golfer knows, one day you could be unstoppable, and the next you could be facing your worst round of the season. This application helps remind you of the fundamentals and walk you through areas to think about to improve/fix your golf skills.
+Golf Trainer is a web application that invites users to share with it the issues they are experiencing with their golf game. Golf is a sport that is impossible to perfect. As much as you play, work, and train, there is always something that can be worked on. And any casual golfer knows, one day you could be unstoppable, and the next you could be facing your worst round of the season. This application helps remind you of the fundamentals and walk you through areas to think about to improve/fix your golf skills. This application was based on the SnapTutor application introduced in Dr. Colin Conrad's MGMT 4620 course at Dalhousie University.
 
 # Table of Contents
 - How To Open
