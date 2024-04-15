@@ -3,7 +3,7 @@ import os, sqlite3
 from flask import Flask, redirect, render_template, request, url_for
 from openai import OpenAI
 client = OpenAI(
-    api_key = "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"
+  
 )
 
 app = Flask(__name__)
